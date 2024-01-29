@@ -1,0 +1,30 @@
+html {
+	background: #17202A;
+	padding: 10px;
+}
+body {
+	background: #D6DBDF;
+	width: 75%;
+	margin: auto;
+	padding: 30px;
+}
+
+p , ul, ol, li, table, td, th {
+	font-size: 1em;
+	font-family: Georgia,serif;
+	line-height: 1.5em;
+	color: #4e4e4e;
+	text-align: justify
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: #4e4e4e;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 10px black;
+    object-position: center;
+}
