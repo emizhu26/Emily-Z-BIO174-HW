@@ -8,6 +8,7 @@ stressed
 devin
 Semordnilap
 palindromes
+Semordnilap
 this
 is
 just
